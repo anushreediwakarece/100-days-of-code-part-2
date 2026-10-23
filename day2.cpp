@@ -8,6 +8,8 @@ void print(int arr[], int n )
    {
     cout<<arr[i]<<" "; 
    }
+
+   
 }
 int main()
 {
